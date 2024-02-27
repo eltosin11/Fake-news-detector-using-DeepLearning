@@ -1,7 +1,7 @@
 # Fake-news-detector-using-DeepLearning
 
 ## The dataset
-News Headlines dataset for Sarcasm Detection is collected from two news websites. TheOnion aims at producing sarcastic versions of current. Real (and non-sarcastic) news headlines are collected from HuffPost.
+News Headlines dataset for Sarcasm Detection is collected from two news websites. TheOnion, which aims at producing sarcastic versions of current news. Real (and non-sarcastic) news headlines are collected from HuffPost.
 
 Each record consists of three attributes:
 -- is_sarcastic: 1 if the record is sarcastic otherwise 0
