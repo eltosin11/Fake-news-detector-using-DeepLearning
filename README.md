@@ -10,6 +10,9 @@ Each record consists of three attributes:
 
 ## Key Objectives
 -- To train-Test Split is 70:30
+
 -- To build a basic BOW TFIDF + Logistic Regression baseline model 
+
 -- Try different deep learning + NLP methods like pre-trained embeddings + DL models, Universal Embeddings, Transformers etc and try to build the most accurate model and break the baseline score
+
 -- Showcase model performance on test data using confusion matrix and classification reports
