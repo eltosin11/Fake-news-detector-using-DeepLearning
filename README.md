@@ -8,7 +8,7 @@ Each record consists of three attributes:
 -- headline: the headline of the news article
 -- article_link: link to the original news article. Useful in collecting supplementary data
 
-## Key Objectives
+## Key objectives
 -- To build a basic BOW TFIDF + Logistic Regression baseline model 
 
 -- Try different deep learning + NLP methods like pre-trained embeddings + DL models, Universal Embeddings, Transformers etc and try to build the most accurate model and break the baseline score
