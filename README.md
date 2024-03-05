@@ -14,3 +14,5 @@ Each record consists of three attributes:
 -- Try different deep learning + NLP methods like pre-trained embeddings + DL models, Universal Embeddings, Transformers etc and try to build the most accurate model and break the baseline score
 
 -- Showcase model performance on test data using confusion matrix and classification reports
+## Results 
+-- 92% accuracy score was obtained from the DistillBert model (the highest of Logistic, FastTest Embeddings + CNN; Neural Network Language Model and BERT models) 
