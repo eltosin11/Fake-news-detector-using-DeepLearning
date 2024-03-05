@@ -15,4 +15,4 @@ Each record consists of three attributes:
 
 -- Showcase model performance on test data using confusion matrix and classification reports
 ## Results 
--- 92% accuracy score was obtained from the DistillBert model (the highest of Logistic, FastTest Embeddings + CNN; Neural Network Language Model and BERT models) 
+-- 92% accuracy score was obtained using the DistillBERT model (the highest of Logistic, FastTest Embeddings + CNN; Neural Network Language Model and BERT models) 
